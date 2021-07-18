@@ -1,5 +1,12 @@
 export default [
   {
+    id: 101,
+    name: "Olotu Praise Jah",
+    age: 19,
+    image:
+      "https://github.com/praiseolotu/my-Cert/blob/main/me.jpg",
+  },
+  {
     id: 1,
     name: "Bertie Yates",
     age: 29,
