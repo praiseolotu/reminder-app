@@ -1,10 +1,10 @@
+import me from "./me.jpg";
 export default [
   {
     id: 101,
     name: "Olotu Praise Jah",
     age: 19,
-    image:
-      "https://github.com/praiseolotu/my-Cert/blob/main/me.jpg",
+    image: me,
   },
   {
     id: 1,
